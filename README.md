@@ -1,6 +1,6 @@
 # Study-Java-
 
-![Java Developer RoadMap](C:\Users\qiino\Desktop\Git\Java\Study-Java-\images\Java Developer RoadMap.jpg)
+![Java Developer RoadMap](https://github.com/qiinori/Study-Java-/blob/master/images/Java%20Developer%20RoadMap.jpg)
 
 ## Learn the basics
 ##### Git & Github
