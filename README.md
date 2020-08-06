@@ -3,21 +3,21 @@
 ![Java Developer RoadMap](C:\Users\qiino\Desktop\Git\Java\Study-Java-\images\Java Developer RoadMap.jpg)
 
 ## Learn the basics
-- [x] ##### Git & Github
-- [x] ##### Linux 
-- [x] ##### Data Structures and Algorithms
+##### Git & Github
+##### Linux 
+##### Data Structures and Algorithms
 ## General Programming skills
 ### IDE
-- [x] - #### Eclipse
-- [x] - #### IDEA
-- [x] - #### NetBeans
+#### Eclipse
+#### IDEA
+#### NetBeans
 ## Tools
-- ##### [status: Learning] Maven
-- ##### [status: Learning]  Junit
+##### Maven
+##### Junit
 ## JDK
-- ##### [status: Learning] Collections
-- ##### [status: Learning] IO
-- ##### [status: Learning] JAVA 8
+##### [status: Learning] Collections
+##### [status: Learning] IO
+##### [status: Learning] JAVA 8
 
 ##### Git & Github
 I read the book " Pro Git book", written by Scott Chacon and Ben Straub and published by Apress.
