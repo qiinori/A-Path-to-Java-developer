@@ -1,6 +1,5 @@
 # Study-Java-
 
-![Java Developer RoadMap](https://github.com/qiinori/Study-Java-/blob/master/images/Java%20Developer%20RoadMap.jpg)
 
 ## Learn the basics
 ##### Git & Github
@@ -18,6 +17,7 @@
 ##### [status: Learning] Collections
 ##### [status: Learning] IO
 ##### [status: Learning] JAVA 8
+![Java Developer RoadMap](https://github.com/qiinori/Study-Java-/blob/master/images/Java%20Developer%20RoadMap.jpg)
 
 ##### Git & Github
 I read the book " Pro Git book", written by Scott Chacon and Ben Straub and published by Apress.
